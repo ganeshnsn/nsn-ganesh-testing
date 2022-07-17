@@ -1,13 +1,20 @@
 # nsn-ganesh-testing
 Testing Org
-PROTOCOLS (SERVICE NAMES)	PORTS NUMBERS	TRANSPORT PROTOCOLS	MEANINGS
+PROTOCOLS (SERVICE NAMES)    	PORTS NUMBERS	  TRANSPORT PROTOCOLS       	MEANINGS
 1.File Transfer Protocol (FTP)	20 and 21	TCP	It is a protocol that carries data guarantees that data will be delivered properly.
+
 2.Secure Shell (SSH)	22	TCP and UDP	It is a cryptographic network protocol used to secure data communication.
+
 3.Telnet	23	TCP	It is the used for remote management protocol for managing network devices.
+
 4.Simple Mail Transfer Protocol (SMTP)	25	TCP	It is a communication protocol which is used to transmit email messages over the internet to the destination server.
+
 5.Domian Name System (DNS)	53	TCP and UDP	It is used in the performance of one simple task of converting IP address
+
 To domain names that everyone can easily understand.
+
 6.Trivial File Transfer Protocol (TFTP)	69	UDP	TFTP is typically used by devices to upgrade software and firmware and that include cisco.
+
 7.Hyper Text Transfer Protocol (HTTP)	80	TCP	It is a kind of protocol used to define how data is transmitted and formatted and also used by www as a channel for communication.
 8.Dynamic Host Configuration Protocol (DHCP)	67 and 68	UDP	It is a kind of service used in the client and server model.
 9.Post Office Protocol 3 (POP3)	110	TCP	It is a protocol used by e-mail client to retrieve e-mail from the servers.
@@ -18,10 +25,14 @@ To domain names that everyone can easily understand.
 14.Lightweight Directory Access Protocol	389	TCP and UDP	LDAP provides a mechanism of accessing and maintaining distributed directory information.
 15.Transport Layer Security (TLS)	443	TCP	It is a protocol of a secured socket layer that uses asymmetric keys to transfer data over a network.
 16.Real-Time Transport Protocol. (RTP)	1023 TO 65535	UDP	It is used for delivering audio and video data over an IP network.
-17.Hyper Text Transfer Protocol Secure. (HTTPS)	443	TCP	It renders authentication and encryption that provides secure communication with the use of secure socket layer.
+17.Hyper Text Transfer Protocol Secure. (HTTPS)	443	TCP	It renders authentication and encryption that provides secure communication with the use of secure socket 
+layer.
 18.Internet Message Access Protocol. (IMAP4)	143	TCP and UDP	It is an application layer protocol and an internet standards for e-mail retrieval.
+
 19.Address Resolution Protocol (ARP)	3389	TCP	It is used to resolve the network layer address into the link address.
+
 20.Border Gateway Protocol (BGP)	179	TCP	It is used to maintain very large routing tables and traffic processing.
+
 21.Internet Relay Chat (IRC)	194	UDP	It is an application layer protocol that facilitate communication in the form of text.
 22.Session Initiation Protocol. (SLP)	427	TCP and UDP	It is used to establish, modify, and terminate multimedia communication session such as VoIP.
 23.Session Description Protocol.(SDP)		TCP	It describes the content of multimedia communication.
